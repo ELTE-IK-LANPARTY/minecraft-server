@@ -1,0 +1,10 @@
+{
+"file": "/data/plugins/Geyser-Spigot/config.yml",
+	"ops":[
+		{
+			"$set":"$.remote.auth-type",
+			"value":"offline"
+		}
+	]
+
+}
