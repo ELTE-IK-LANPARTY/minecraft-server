@@ -25,7 +25,7 @@ services:
       OPS: |-
         Laci0503
       PLUGINS: |-
-        https://cdn.modrinth.com/data/wKkoqHrH/versions/CVDMKULK/Geyser-Spigot.jar
+        https://cdn.modrinth.com/data/wKkoqHrH/versions/35Qm59c3/Geyser-Spigot.jar
       ENFORCE_SECURE_PROFILE: "false"
       ALLOW_FLIGHT: "true"
       PATCH_DEFINITIONS: "/patches"
